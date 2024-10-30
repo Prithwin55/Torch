@@ -118,3 +118,4 @@ def inference(image_path):
 # Example usage
 pred = inference('/path/to/new/image.jpg')
 print(pred)
+#https://universe.roboflow.com/personal-protective-equipment/ppes-kaxsi/dataset/8
